@@ -1,75 +1,96 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# Hello 👋 I am Michael
 
-###
+## Mobile - Backend Developer
 
-<p align="center">I’m Michael, a passionate developer and tech enthusiast who enjoys building useful apps, solving real-world problems, and sharing what I learn along the way. Whether it’s crafting mobile experiences with Flutter, building solid backends with NestJS, or diving into clean architecture, I’m always exploring and creating.<br>This GitHub is where I share my projects, ideas, and experiments — feel free to explore, star, or connect!</p>
+a passionate developer and tech enthusiast who enjoys building useful apps, solving real-world problems, and sharing what I learn along the way. Whether it’s crafting mobile experiences with Flutter, building solid backends with NestJS, or diving into clean architecture, I’m always exploring and creating.
+This GitHub is where I share my projects, ideas, and experiments — feel free to explore, star, or connect!
 
-###
+- 🌍 I'm from Edo, Nigeria
+- 📫 Reach me at [osundemichael7@gmail.com](mailto:osundemichael7@gmail.com)
+- 👨‍💻 Check out my portfolio at [MyPortfolio](http://osunde-goodluck-michael.netlify.app/)
+- 📄 Check out my resume at [MyResume](http://drive.google.com/file/d/1CfiJnA742Y9rCd8fWXjbwMtZF8DzLtRl/view?usp=sharing)
+- 🔭 I'm currently working on [fluxstore](github.com/Michaelkinginfosec/fluxstore)
+- 🌱 I'm currently learning cloud deployment
+- 💬 Ask me about Mobile and backend
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+<a href="https://www.github.com/michaelkinginfosec" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/michaelkinginfosec?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> &nbsp;
+<a href="https://www.x.com/michaelkingsec" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/follow-%40michaelkingsec-0891b2?logo=x&style=for-the-badge&labelColor=1c1917" /></a> &nbsp;
+### Skills
 
-###
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/dart-colored.svg" alt="Dart" />
+</picture></a> &nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" />
+</picture></a> &nbsp;
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/flutter-colored.svg" alt="Flutter" />
+</picture></a> &nbsp;
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" />
+</picture></a> &nbsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" />
+</picture></a> &nbsp;
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" />
+</picture></a> &nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" />
+</picture></a> &nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/firebase-colored.svg" alt="Firebase" />
+</picture></a> &nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/git-colored.svg" alt="Git" />
+</picture></a> &nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" />
+</picture></a> &nbsp;
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" />
+</picture></a> &nbsp;
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/docker-colored.svg" alt="Docker" />
+</picture></a> &nbsp;
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/osundegoodluckmichael/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/michaelkinginfosec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://twitter.com/michaelkingsec" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/michaelkingsec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="osundemichael7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+### Social
 
-###
+<a href="https://www.github.com/michaelkinginfosec" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
+</picture>
+</a> &nbsp;
+<a href="https://www.x.com/michaelkinginfosec" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
+</picture>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/osundegoodluckmichael" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
+</picture>
+</a> &nbsp;
+<a href="https://www.facebook.com/michaelkinginfosec" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/facebook.svg" alt="facebook" />
+</picture>
+</a> &nbsp;
+<a href="https://www.instagram.com/michaelkingsec" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
+</picture>
+</a> &nbsp;
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=michaelkinginfosec&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=michaelkinginfosec&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### Badges
+#### My GitHub Stats
 
-###
+<a
+href="http://www.github.com/michaelkinginfosec"><img src="https://github-readme-stats.vercel.app/api?username=michaelkinginfosec&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="michaelkinginfosec's GitHub stats" /></a> <br/>
+<br/>
+<a href="http://www.github.com/michaelkinginfosec"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=michaelkinginfosec&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
+<br/>
+<a href="https://github.com/michaelkinginfosec" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkinginfosec&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelkinginfosec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkinginfosec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
