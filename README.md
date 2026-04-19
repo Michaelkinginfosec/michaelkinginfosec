@@ -1,96 +1,91 @@
-# Hello 👋 I am Michael
+<h1 align="center">Hi, I'm Michaelking 👋</h1>
+<h3 align="center">Mobile & Backend Developer  ·  Flutter + NestJS  ·  Edo State, Nigeria</h3>
 
-## Mobile - Backend Developer
+<p align="center">
+  <a href="https://www.linkedin.com/in/osundegoodluckmichael"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:osundemichael7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/michaelkingsec"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-a passionate developer and tech enthusiast who enjoys building useful apps, solving real-world problems, and sharing what I learn along the way. Whether it’s crafting mobile experiences with Flutter, building solid backends with NestJS, or diving into clean architecture, I’m always exploring and creating.
-This GitHub is where I share my projects, ideas, and experiments — feel free to explore, star, or connect!
+---
 
-- 🌍 I'm from Edo, Nigeria
-- 📫 Reach me at [osundemichael7@gmail.com](mailto:osundemichael7@gmail.com)
-- 👨‍💻 Check out my portfolio at [MyPortfolio](http://osunde-goodluck-michael.netlify.app/)
-- 📄 Check out my resume at [MyResume](http://drive.google.com/file/d/1CfiJnA742Y9rCd8fWXjbwMtZF8DzLtRl/view?usp=sharing)
-- 🔭 I'm currently working on [fluxstore](github.com/Michaelkinginfosec/fluxstore)
-- 🌱 I'm currently learning cloud deployment
-- 💬 Ask me about Mobile and backend
+### About me
 
-<a href="https://www.github.com/michaelkinginfosec" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/michaelkinginfosec?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> &nbsp;
-<a href="https://www.x.com/michaelkingsec" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/follow-%40michaelkingsec-0891b2?logo=x&style=for-the-badge&labelColor=1c1917" /></a> &nbsp;
-### Skills
+I build end-to-end mobile products — Flutter on the client, NestJS on the backend. Over the past two years I've worked across non-custodial crypto wallets, fintech, eLearning, and marketplace apps, with a focus on secure authentication, clean architecture, and well-designed APIs. My background in Cyber Security shapes how I think about keys, wallets, and user data.
 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/dart-colored.svg" alt="Dart" />
-</picture></a> &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" />
-</picture></a> &nbsp;
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/flutter-colored.svg" alt="Flutter" />
-</picture></a> &nbsp;
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" />
-</picture></a> &nbsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" />
-</picture></a> &nbsp;
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" />
-</picture></a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" />
-</picture></a> &nbsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/firebase-colored.svg" alt="Firebase" />
-</picture></a> &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/git-colored.svg" alt="Git" />
-</picture></a> &nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" />
-</picture></a> &nbsp;
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" />
-</picture></a> &nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/docker-colored.svg" alt="Docker" />
-</picture></a> &nbsp;
+- 🔭 **Team Lead on Calfes** — a non-custodial crypto wallet with on-chain swap/send/receive, full self-custody of keys, and an integrated Academy with a dummy-wallet practice mode. I own the NestJS + Prisma backend and contribute to the Flutter app. *(Under NDA — code not public.)*
+- 💼 Also building **Cyne** — a fintech app with wallet system and multi-chain crypto receiving (BTC, ETH, BNB, XRP). Currently in active development.
+- 🧱 I care about **clean architecture**, modular code, and APIs that don't paint the next team into a corner
+- 🔐 Security-minded: non-custodial key models, JWT, Passport, RBAC, idempotent transactions, audit trails
+- 🌱 Currently sharpening: deeper NestJS patterns, Flutter performance profiling
+- 💬 Happy to talk about: non-custodial wallet architecture, Flutter state management (BLoC vs Riverpod), fintech/crypto backend patterns
+- 📫 Reach me: **osundemichael7@gmail.com**
 
-### Social
+---
 
-<a href="https://www.github.com/michaelkinginfosec" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
-</a> &nbsp;
-<a href="https://www.x.com/michaelkinginfosec" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
-</picture>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/osundegoodluckmichael" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
-</picture>
-</a> &nbsp;
-<a href="https://www.facebook.com/michaelkinginfosec" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/facebook.svg" alt="facebook" />
-</picture>
-</a> &nbsp;
-<a href="https://www.instagram.com/michaelkingsec" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
-</picture>
-</a> &nbsp;
+### Tech stack
 
-### Badges
-#### My GitHub Stats
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</p>
 
-<a
-href="http://www.github.com/michaelkinginfosec"><img src="https://github-readme-stats.vercel.app/api?username=michaelkinginfosec&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="michaelkinginfosec's GitHub stats" /></a> <br/>
-<br/>
-<a href="http://www.github.com/michaelkinginfosec"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=michaelkinginfosec&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
-<br/>
-<a href="https://github.com/michaelkinginfosec" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkinginfosec&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
+---
 
+### Featured work
+
+| Project | Stack | What it does |
+|---|---|---|
+| **Calfes** *(Team Lead · under NDA)* | Flutter · NestJS · Prisma · PostgreSQL | Non-custodial crypto wallet — on-chain swap/send/receive, full self-custody, integrated Academy with dummy-wallet practice mode |
+| **Cyne Fintech** *(in development)* | Flutter · NestJS · MongoDB | Wallet system, P2P transfers, multi-chain crypto receiving (BTC/ETH/BNB/XRP), utility bill payments |
+| **ITED eLearning** | Flutter · NestJS · MongoDB · Cloudinary | Student mobile app + admin dashboard with JWT auth and media delivery |
+| **Ridely (Mobile Contributor)** | Flutter · BLoC · Clean Architecture | Contributed to the ride-hailing Flutter frontend during its core development phase |
+| **TryOrderBot Marketplace** | Flutter | Vendor–retailer marketplace with real-time chat and order lifecycle tracking; delivered to client |
+| **Softzinat Backend** | NestJS · MongoDB · PostgreSQL | Backend powering an admin dashboard + two mobile apps (Vendor & User) |
+
+
+---
+
+### GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Michaelkinginfosec&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelkinginfosec&layout=compact&theme=default&hide_border=true&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Michaelkinginfosec&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michaelkinginfosec&theme=github-light&hide_border=true&area=true"/>
+</p>
+
+---
+
+<p align="center"><i>Open to full-time, contract, and remote opportunities in mobile, backend, or full-stack roles — especially in fintech, crypto, and Web3.</i></p>
