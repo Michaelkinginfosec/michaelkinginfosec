@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michaelking 👋</h1>
-<h3 align="center">Mobile & Backend Developer  ·  Flutter + NestJS  ·  Edo State, Nigeria</h3>
+<h3 align="center">Mobile & Backend Developer · Flutter · React Native · NestJS · Edo State, Nigeria</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/osundegoodluckmichael"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -11,44 +11,56 @@
 
 ### About me
 
-I build end-to-end mobile products — Flutter on the client, NestJS on the backend. Over the past two years I've worked across non-custodial crypto wallets, fintech, eLearning, and marketplace apps, with a focus on secure authentication, clean architecture, and well-designed APIs. My background in Cyber Security shapes how I think about keys, wallets, and user data.
+I build end-to-end mobile products — Flutter and React Native on the client, NestJS on the backend. Over 3 years I've shipped across non-custodial crypto wallets, fintech, eLearning, and marketplace apps, with a focus on secure authentication, clean architecture, and well-designed APIs. My background in Cyber Security shapes how I think about keys, wallets, and user data.
 
-- 🔭 **Team Lead on Calfes** — a non-custodial crypto wallet with on-chain swap/send/receive, full self-custody of keys, and an integrated Academy with a dummy-wallet practice mode. I own the NestJS + Prisma backend and contribute to the Flutter app. *(Under NDA — code not public.)*
+- 🚀 **Team Lead on [Calfes](https://play.google.com/store/apps/details?id=com.calfes.app)** — a live non-custodial crypto wallet with on-chain swap/send/receive, full self-custody of keys, and an integrated Academy with a dummy-wallet practice mode. I own the NestJS + Prisma backend and contribute to the Flutter mobile app. **Now live on Google Play.**
 - 💼 Also building **Cyne** — a fintech app with wallet system and multi-chain crypto receiving (BTC, ETH, BNB, XRP). Currently in active development.
 - 🧱 I care about **clean architecture**, modular code, and APIs that don't paint the next team into a corner
 - 🔐 Security-minded: non-custodial key models, JWT, Passport, RBAC, idempotent transactions, audit trails
-- 🌱 Currently sharpening: deeper NestJS patterns, Flutter performance profiling
+- 🌱 Currently sharpening: deeper NestJS patterns, React Native with Expo, Flutter performance profiling
 - 💬 Happy to talk about: non-custodial wallet architecture, Flutter state management (BLoC vs Riverpod), fintech/crypto backend patterns
-- 📫 Reach me: **osundemichael7@gmail.com**
+- 📫 Reach me: **osundemichael7@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/osundegoodluckmichael)**
 
 ---
 
 ### Tech stack
 
+**Mobile**
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
+
+**Backend**
 <p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
+
+**Blockchain / Web3**
 <p>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
 </p>
+
+**DevOps & Tooling**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+**Auth & Security**
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=white"/>
@@ -61,13 +73,12 @@ I build end-to-end mobile products — Flutter on the client, NestJS on the back
 
 | Project | Stack | What it does |
 |---|---|---|
-| **Calfes** *(Team Lead · under NDA)* | Flutter · NestJS · Prisma · PostgreSQL | Non-custodial crypto wallet — on-chain swap/send/receive, full self-custody, integrated Academy with dummy-wallet practice mode |
-| **Cyne Fintech** *(in development)* | Flutter · NestJS · MongoDB | Wallet system, P2P transfers, multi-chain crypto receiving (BTC/ETH/BNB/XRP), utility bill payments |
+| **[Calfes](https://play.google.com/store/apps/details?id=com.calfes.app)** *(Team Lead · Live on Play Store)* | Flutter · NestJS · Prisma · PostgreSQL | Non-custodial crypto wallet — on-chain swap/send/receive, full self-custody, integrated Academy with dummy-wallet practice mode |
+| **Cyne Fintech** | Flutter · NestJS · MongoDB | Wallet system, P2P transfers, multi-chain crypto receiving (BTC/ETH/BNB/XRP), utility bill payments |
 | **ITED eLearning** | Flutter · NestJS · MongoDB · Cloudinary | Student mobile app + admin dashboard with JWT auth and media delivery |
-| **Ridely (Mobile Contributor)** | Flutter · BLoC · Clean Architecture | Contributed to the ride-hailing Flutter frontend during its core development phase |
+| **Ridely** *(Mobile Contributor)* | Flutter · BLoC · Clean Architecture | Contributed to the ride-hailing Flutter frontend during its core development phase |
 | **TryOrderBot Marketplace** | Flutter | Vendor–retailer marketplace with real-time chat and order lifecycle tracking; delivered to client |
 | **Softzinat Backend** | NestJS · MongoDB · PostgreSQL | Backend powering an admin dashboard + two mobile apps (Vendor & User) |
-
 
 ---
 
